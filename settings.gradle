@@ -1,1 +1,3 @@
-include ':app', ':wsmanager', ':okhttp-ws-example', ':rx-wsmanager'
+rootProject.name='WsManager'
+include ':app'
+include ':wsmanager'
